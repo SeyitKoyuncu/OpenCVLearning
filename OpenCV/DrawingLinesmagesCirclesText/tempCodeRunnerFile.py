@@ -1,0 +1,2 @@
+
+    font = cv2.FONT_HERSHEY_TRIPLEX
